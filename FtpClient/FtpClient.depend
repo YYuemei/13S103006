@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1401269790 source:d:\cbdec\ftpclient\main.cpp
+	<iostream>
+	<winsock.h>
+	<stdio.h>
+	<string.h>
+	<fstream>
+
